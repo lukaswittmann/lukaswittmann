@@ -1,6 +1,6 @@
 <div align=center>
    <a href="mailto:mail@lukaswittmann.com">
-   <img src="./images/email.png" alt="E-Mail" width="50">
+   <img src="./images/mail.png" alt="E-Mail" width="50">
    </a>
 &nbsp
    <a href="https://lukaswittmann.com">
