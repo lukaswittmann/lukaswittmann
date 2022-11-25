@@ -8,7 +8,7 @@
 </a>
 &nbsp
 <a href="https://www.linkedin.com/in/lukas-wittmann-1647bb1ba/">
-<img src="./images/youtube.png" alt="LinkedIn" width="50">
+<img src="./images/linkedin.png" alt="LinkedIn" width="50">
 </a>
 </div>
    
