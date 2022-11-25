@@ -1,9 +1,6 @@
 ### Hello there 👋
-<html>
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
-  </head>
-  <body>
+
+
     <div style="margin: 0 !important; padding: 0 !important; width: 100% !important;">
       <div style="font-family: Arial, sens-serif; font-size: 13px; line-height: 1.3; color: #242424;"
         class="template-template3 is-flipped-false font-family-arial contact-icon-family-empty font-size font-family text-color">
@@ -102,9 +99,7 @@
         </table>
       </div>
     </div>
-    
-  </body>
-</html>
+   
 <!--
 **lukaswittmann/lukaswittmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
