@@ -16,7 +16,9 @@
    </a>
 </div>
 
-“With four parameters I can fit an elephant, and with five I can make him wiggle his trunk.” - Johnny von
+<br>
+
+_“With four parameters I can fit an elephant, and with five I can make him wiggle his trunk.”_ - Johnny von
 Neumann
    
 <!--
