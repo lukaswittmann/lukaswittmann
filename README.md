@@ -18,8 +18,10 @@
 
 <br>
 
+<div align=center>
 _“With four parameters I can fit an elephant, and with five I can make him wiggle his trunk.”_ - Johnny von
 Neumann
+</div>
    
 <!--
 **lukaswittmann/lukaswittmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
