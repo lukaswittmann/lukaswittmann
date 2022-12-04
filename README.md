@@ -15,6 +15,9 @@
    <img src="./images/linkedin.png" alt="LinkedIn" width="50">
    </a>
 </div>
+
+“With four parameters I can fit an elephant, and with five I can make him wiggle his trunk.” - Johnny von
+Neumann
    
 <!--
 **lukaswittmann/lukaswittmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
