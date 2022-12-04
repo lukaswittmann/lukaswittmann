@@ -18,8 +18,8 @@
 
 <br>
 
-<div align=center>
-_“With four parameters I can fit an elephant, and with five I can make him wiggle his trunk.”_ - Johnny von
+<div align=center, font-family: monospace>
+🐘 “With four parameters I can fit an elephant, and with five I can make him wiggle his trunk.” - Johnny von
 Neumann
 </div>
    
