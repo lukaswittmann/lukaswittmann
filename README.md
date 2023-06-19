@@ -2,7 +2,7 @@
 👋 Hello there! <br>
 I'm Lukas, a passionate theoretical scientist-in-the-making who finds joy in developing theories and programs that try to capture the complex physical nature of chemistry. I also often come up with silly ways to parallelize unnecessary steps and scripts.
 </div>
-
+<p style="padding-top: 10px;"></p>
 <div align=center>
    <a href="mailto:mail@lukaswittmann.com">
    <img src="./images/mail.png" alt="E-Mail" width="50">
@@ -20,14 +20,3 @@ I'm Lukas, a passionate theoretical scientist-in-the-making who finds joy in dev
    <img src="./images/linkedin.png" alt="LinkedIn" width="50">
    </a>
 </div>
-
-<br>
-   
-<!--
-**lukaswittmann/lukaswittmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<div align=center, font-family: monospace>
-🐘  <i> “With four parameters I can fit an elephant, and with five I can make him wiggle his trunk.” </i> - Johnny von
-Neumann
-</div>
--->
