@@ -1,6 +1,6 @@
 <div align=center, font-family: monospace>
 👋 Hello there! <br>
-I'm Lukas, a passionate theoretical scientist-in-the-making who finds joy in developing theories and programs that try to capture the complex physical nature of chemistry. I also often come up with silly ways to parallelize unnecessary steps and scripts.
+I'm Lukas, a passionate theoretical scientist-in-the-making who finds joy in developing theories and alogrithms that try to capture the complex physical nature of chemistry. I also often come up with silly ways to parallelize unnecessary steps and scripts.
 </div>
 <p style="padding-top: 10px;"></p>
 <div align=center>
