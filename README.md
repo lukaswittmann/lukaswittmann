@@ -1,3 +1,8 @@
+<div align=center, font-family: monospace>
+👋 Hello there! <br>
+I'm Lukas, a passionate theoretical scientist-in-the-making who finds joy in developing theories and programs that try to capture the complex physical nature of chemistry. I also often come up with silly ways to parallelize unnecessary steps and scripts.
+</div>
+
 <div align=center>
    <a href="mailto:mail@lukaswittmann.com">
    <img src="./images/mail.png" alt="E-Mail" width="50">
@@ -17,23 +22,12 @@
 </div>
 
 <br>
+   
+<!--
+**lukaswittmann/lukaswittmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <div align=center, font-family: monospace>
 🐘  <i> “With four parameters I can fit an elephant, and with five I can make him wiggle his trunk.” </i> - Johnny von
 Neumann
 </div>
-   
-<!--
-**lukaswittmann/lukaswittmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
