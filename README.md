@@ -12,7 +12,7 @@ I'm Lukas, a passionate theoretical scientist-in-the-making who finds joy in dev
    <img src="./images/website.png" alt="Website" width="50">
    </a>
 &nbsp
-   <a href="[https://www.youtube.com/channel/UCpXvAwnxumFDjF5qvkFLDfw](https://www.youtube.com/@pV_NkBT)">
+   <a href="https://www.youtube.com/@pV_NkBT">
    <img src="./images/youtube.png" alt="Youtube" width="50">
    </a>
 &nbsp   
