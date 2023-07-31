@@ -15,10 +15,11 @@ I'm Lukas, a passionate theoretical scientist-in-the-making who finds joy in dev
    <a href="https://www.youtube.com/@pV_NkBT">
    <img src="./images/youtube.png" alt="Youtube" width="50">
    </a>
-&nbsp   
+<!--
 <a href="https://twitter.com/pv_nkbt">
    <img src="./images/twitter.png" alt="Youtube" width="50">
-   </a>
+</a>
+-->
 &nbsp
    <a href="https://www.linkedin.com/in/lukas-wittmann-1647bb1ba/">
    <img src="./images/linkedin.png" alt="LinkedIn" width="50">
