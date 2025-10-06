@@ -1,6 +1,10 @@
 <div align=center, font-family: monospace>
-👋 Hello there! <br>
-I'm Lukas, a passionate theoretical scientist who finds joy in developing theories and algorithms that try to capture the complex physical nature of chemistry. I also often come up with silly ways to parallelize unnecessary steps and scripts.
+👋 Hi, I'm Lukas! <br>
+I'm a passionate theoretical scientist pursuing my PhD, developing theories and algorithms to capture the complex physical nature of chemistry.
+   
+Currently, my research focuses on solvation, in particular the development of implicit solvation models from first principles.
+
+I actively contribute to ORCA and various open-source projects, developing in Fortran, C++, and sometimes Python, with an emphasis on quantum chemistry methods and statistical mechanics-based approaches.
 </div>
 <p style="padding-top: 10px;"></p>
 <div align=center>
