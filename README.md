@@ -1,4 +1,4 @@
-<img align="right" width="350" src="./images/cavity.gif" alt="SvdW-DROP cavity projection, 15-Crown-5">
+<img align="right" width="400" src="./images/cavity.gif" alt="SvdW-DROP cavity projection, 15-Crown-5">
 
 👋 **Hi, I'm Lukas!**
 
